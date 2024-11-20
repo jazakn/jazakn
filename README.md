@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Ankit
-- 👀 I’m interested in data science, Machine learning and Generative Ai
-- 🌱 I’m currently learning machine learning & Generative Ai
-- 💞️ I’m looking to collaborate on Generative Ai
-- 📫 How to reach me ...
+# 💫 About Me:
+An experienced and results-driven Business Analyst with over 8 years of expertise in data analytics, corporate strategy, and business performance evaluation. Proficient in leveraging tools like Python, Tableau, Power BI, and SQL to deliver actionable insights and optimize business processes. Adept at managing large-scale e-commerce P&L, conducting consumer behavior analytics, and designing A/B testing frameworks to drive decision-making.<br><br>Demonstrates exceptional skills in stakeholder management, crafting executive-level presentations, and aligning cross-functional teams to meet organizational goals. With a strong foundation in behavioral science research, statistical modeling, and advanced analytics, I bring a holistic perspective to problem-solving. Recognized for contributions to academia and industry through international conferences, publications, and case studies.<br><br>Possessing a proven track record in working with US and global clients, I specialize in transforming business challenges into analytics-driven solutions and providing data-backed recommendations to leadership. Skilled in project management, organizational efficiency analysis, and enhancing digital marketing campaigns across multi-channel platforms. My diverse background in corporate and academic roles equips me with a unique blend of strategic and technical expertise
 
-<!---
-jazakn/jazakn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jazakn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jazakn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jazakn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jazakn&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
